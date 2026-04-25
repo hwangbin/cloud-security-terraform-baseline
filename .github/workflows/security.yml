@@ -9,7 +9,7 @@ on:
 jobs:
   terraform-checks:
     name: Terraform checks
-    runs-on: ubutu-latest
+    runs-on: ubuntu-latest
 
     steps:
       - name : Checkout repository

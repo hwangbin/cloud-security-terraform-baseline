@@ -1,0 +1,7 @@
+{
+  "name": "cloud-security-terraform-baseline",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/devcontainers/features/terraform:1": {}
+  }
+}

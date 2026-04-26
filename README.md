@@ -69,3 +69,7 @@ This repository focuses on baseline-level cloud security controls such as:
 
 ```bash
 terraform init
+
+- Secure S3 baseline with public access block
+- Bucket versioning enabled
+- Default server-side encryption enabled
